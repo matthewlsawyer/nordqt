@@ -1,7 +1,12 @@
 # nordqt
 
-A simple Qt app that connects you to NordVPN. This app wraps `nordvpn` with a Qt GUI. This app depends on `nordvpn` and `polkit`.
+A simple `Qt` GUI that connects you to NordVPN via `nordvpn`. 
+
+## Dependencies
+
+* `nordvpn`
+* `polkit`
 
 ## Attribution
 
-Icons made by Smashicons from www.flaticon.com
+Icons made by Smashicons from [www.flaticon.com](www.flaticon.com)
